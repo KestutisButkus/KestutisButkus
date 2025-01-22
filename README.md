@@ -1,4 +1,5 @@
 - 👋 Sveiki, aš esu @KestutisButkus
 - 👀 Domiuosi "Python" programavio kalba
-- 🌱 Šiuo metu mokausi CodeAcademy.lt
+- 🎓 Baigiau "CodeAcademy" Python ir DI kursus
+- 🌱 Šiuo metu gilinu Python įgūdžius
 
